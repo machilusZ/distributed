@@ -14,7 +14,7 @@ import (
 )
 
 //IP address, as a string, for the introducer - the VM that outher VM's will ping to join the group
-const INTRODUCER = "172.22.149.18/23"
+const INTRODUCER = "172.22.158.218"
 
 //File path for membershipList. Only applies to INTRODUCER
 const FILE_PATH = "MList.txt"
